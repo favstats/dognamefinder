@@ -3,4 +3,5 @@
 export("%>%")
 export(find_dogname)
 export(greet)
+importFrom(dplyr,filter)
 importFrom(magrittr,"%>%")
