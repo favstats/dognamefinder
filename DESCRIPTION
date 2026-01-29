@@ -11,12 +11,13 @@ Config/testthat/edition: 3
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.2
-URL: https://github.com/favstats/dimes2026
+URL: https://github.com/favstats/dimes2026, https://favstats.github.io/dimes2026/
 BugReports: https://github.com/favstats/dimes2026/issues
 Imports: 
     magrittr,
     tibble,
-    dplyr
+    dplyr,
+    foreign
 Depends: 
     R (>= 3.5)
 LazyData: true
