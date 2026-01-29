@@ -32,7 +32,7 @@ devtools::install_github("favstats/dognamefinder")
 This is a basic example which shows you how to solve a common problem:
 
 ``` r
-library(dimes2026)
+library(dognamefinder)
 ## basic example code
 ```
 
@@ -43,5 +43,5 @@ greet("all Dogs out there")
 
 ``` r
 find_dogname(breed = "Labrador")
-#> [1] "Bailey" "Max"    "Bella"
+#> [1] "Bailey" "Bella"  "Max"
 ```
