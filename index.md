@@ -2,12 +2,18 @@
 
 The goal of dognamefinder is to find dognames.
 
+This package was created as part of the DiMES January 29th Workshop on
+creating R packages.
+
+For slides of that workshop, [see
+here](https://favstats.github.io/dimes-r-for-research/day1#1).
+
 ## Installation
 
 You can install the development version of dimes2026 like so:
 
 ``` r
-devtools::install_github("favstats/dimes2026")
+devtools::install_github("favstats/dognamefinder")
 ```
 
 ## Example
